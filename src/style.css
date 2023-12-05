@@ -12,7 +12,7 @@ body {
  border-radius: 50%;
  left: -10%;
  top: -10%;
- filter: blur(140px);
+ filter: blur(100px);
  animation: gradient 4s infinite;
  }
 
@@ -25,7 +25,7 @@ body {
  border-radius: 50%;
  right: -10%;
  bottom: -10%;
- filter: blur(140px);
+ filter: blur(100px);
  animation:gradient 4s infinite;
  }
 }
